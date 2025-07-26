@@ -8,4 +8,6 @@ Click below to see the Agile completion screenshot<br>
 Click below to view the certificate<br>
 (https://github.com/manu7658/5113893_Nallamothu-Manohar/blob/main/GIT/git%20certificate.pdf)
 
-
+##GIT commands <br>
+click below to view the commands  <br>
+(https://github.com/manu7658/5113893_Nallamothu-Manohar/blob/main/GIT/git%20commands.txt)
