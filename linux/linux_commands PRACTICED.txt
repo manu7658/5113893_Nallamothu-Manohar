@@ -1,0 +1,61 @@
+
+1. date                      - Display current date and time
+2. bc                        - Calculator utility
+3. sudo apt update           - Refresh package lists
+4. sudo apt upgrade          - Upgrade all upgradable packages
+5. clear                     - Clear the terminal screen
+6. echo $SHELL               - Show the current shell
+7. printenv SHELL            - Show SHELL environment variable
+8. whoami                    - Show current logged-in user
+9. whatis <command>          - One-line description of a command
+10. whereis <command>        - Locate binary/source/man page
+11. info <command>           - Display help info about a command
+12. sudo apt install gcc     - Install the GCC compiler
+13. sudo apt install build-essential - Install build tools
+14. date "+%D %T"            - Show formatted date and time
+15. date --date "tomorrow"   - Show tomorrow’s date
+16. cal                      - Show calendar
+17. cal 7 2025               - Show calendar for July 2025
+18. ps                       - Show current processes
+19. bc <<< "scale=2; 12/5"   - Perform floating point division
+20. bc <<< "2^10"            - Calculate powers (e.g., 2^10)
+21. uname -a                 - Show all system info
+22. echo "text"              - Display text
+23. echo -e "Hello	World"   - Enable backslash escapes
+24. echo -n "text"           - Omit newline
+25. seq 1 10                 - Sequence from 1 to 10
+26. rev <<< "Linux"          - Reverse a string
+27. history                  - Show command history
+28. echo $?                  - Show exit status of last command
+29. false                    - Always return non-zero exit
+30. ls                       - List files
+31. nano newfile             - Open/create file in nano editor
+32. mkdir new                - Create a new directory
+33. cd new                   - Change to directory "new"
+34. cd ..                    - Move up one directory
+35. cd                       - Go to home directory
+36. cd -                     - Go to previous directory
+37. mkdir -p d1/d2           - Create nested directories
+38. ls -l                    - Long listing format
+39. ls -a                    - List all files (including hidden)
+40. ls -R                    - List directories recursively
+41. wc filename              - Word/line/byte count of file
+42. touch file.txt           - Create an empty file
+43. cat file.txt             - Show contents of file
+44. cat file > new.txt       - Redirect file to new.txt
+45. cat file >> new.txt      - Append file to new.txt
+46. cat -n file              - Show file with line numbers
+47. tac file                 - Show file in reverse
+48. cp file1 file2           - Copy file1 to file2
+49. cp -r dir1 dir2          - Copy directory recursively
+50. mv file dir/             - Move file to directory
+51. rm file                  - Delete file
+52. rmdir dir                - Delete empty directory
+53. rm -r dir                - Delete directory and contents
+54. pwd                      - Show current directory
+55. vi filename              - Open file with vi editor
+56. gcc file.c               - Compile C file
+57. ./a.out                  - Run compiled C file
+58. man <command>            - Manual for command
+59. info date                - Detailed info on date command
+60. wc <file>                - Word count and stats for file
